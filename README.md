@@ -1,2 +1,2 @@
-Ekart App with Context Api 
-Live Site : 
+Ekart App with Context Api by VIJAY RAWAT
+Live Site : https://ekartapi-two.vercel.app/
